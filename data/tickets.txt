@@ -1,0 +1,5 @@
+PNR50293,TRAIN001,shreyash9199@gmail.com,Shreyash Jaiswal,20,AC
+PNR73260,TRAIN001,abcd12@gmail.com,Kunal Kumar,20,Sleeper
+PNR92135,TRAIN001,shreyash9199@gmail.com,Aakash Kumar,20,General
+PNR47482,TRAIN002,shreyash9199@gmail.com,Ssssss,54,Sleeper
+PNR53533,TRAIN002,shreyash9199@gmail.com,bbbbb,32,ac
